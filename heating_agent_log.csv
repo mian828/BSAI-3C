@@ -1,0 +1,5 @@
+timestamp,room,current_temp,target_temp,action,last_action
+2025-10-02 21:20:14,Living Room,18,22,Heater ON,Heater ON
+2025-10-02 21:20:14,Bedroom,22,21,Heater OFF,Heater OFF
+2025-10-02 21:20:14,Kitchen,20,22,Heater ON,Heater ON
+2025-10-02 21:20:14,Bathroom,24,23,Heater OFF,Heater OFF
